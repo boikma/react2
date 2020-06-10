@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "nguyễn van",
+        "phone": "554553344",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "nguyễfgfg gdfg",
+        "phone": "554553344",
+        "permission": 1
+    },
+    {
+        "id": 3,
+        "name": "nguyễn ggf",
+        "phone": "554553344",
+        "permission": 2
+    },
+    {
+        "id": 4,
+        "name": "fdff van",
+        "phone": "554553344",
+        "permission": 1
+    },
+    {
+        "id": 5,
+        "name": "Nguyễn Thị Phương",
+        "phone": "554553344",
+        "permission": 2
+    },
+    {
+        "id": 6,
+        "name": "Nguyễn Văn Bội",
+        "phone": "554553344",
+        "permission": 1
+    }
+]

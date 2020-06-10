@@ -1,0 +1,230 @@
+@media only screen and (max-width:1200px){
+    html{
+        font-size: 16px;
+    }
+
+    .heading-main-box{
+        transform: translate(-35%, -50%);
+    }
+
+    form{
+        margin-left: 5%;
+    }
+    
+    .infor, .social-icon{
+        margin-left: 50px;
+    }
+
+    .about-picture{
+
+    }
+}
+
+@media only screen and (max-width:1023px){
+    .heading-main-box{
+        transform: translate(-25%, -50%);
+    }
+
+    .logo{
+        width: 150px;
+    }
+
+    .product-box ul li{
+        margin-left: 20%;
+    }
+
+    .product-box .btn{
+        width: 150px;
+        margin-left: 14%;
+    }
+
+    .infor, .social-icon{
+        margin-left: 30px;
+    }
+
+    .contact-section form{
+        margin-left: 20%;
+    }
+}
+
+@media only screen and (max-width:767px){
+
+    .col{
+        width: 100%;
+    }
+    
+    header{
+        height: 100vh;
+    }
+
+    .logo{
+        width: 150px;
+        margin-left: 80px;
+    }
+
+
+    .mobile-nav-icon{
+        display: block;
+    }
+
+    .heading-main-box{
+        transform: translate(-18%, -50%);
+    }
+
+    .heading-main-text{
+        font-size: 160%;
+        word-spacing: 5px;
+    }
+
+    .heading-main-box .btn{
+        width: 150px;
+        font-size: 120%;
+    }
+
+    .about-picture{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .about-picture img{
+        width: 70%;
+    }
+
+    .about-section .p-long{
+        font-size: 120%;
+    }
+
+    .about-section .pic-title{
+        font-size: 150%;
+    }
+
+    .product-box{
+        width: 70%;
+        margin-left: 15%;
+        margin-bottom: 30px;
+    }
+
+    .product-box h3{
+        font-size: 150%;
+    }
+
+    .product-box ul li{
+        margin-left: 35%;
+    }
+
+    .product-box .btn{
+        margin-left: 30%;
+    }
+
+
+    .testimonial-section blockquote{
+        width: 70%;
+        margin-bottom: 70px;
+        margin-left: 15%;
+    }
+
+    .testimonial-section blockquote cite{
+        margin-top: 10px;
+    }
+
+    .infor{
+        width: 70%;
+        margin-left: 20%;
+        font-size: 150%;
+    }
+
+    .social-icon{
+        text-align: center;
+        font-size: 150%;
+        margin-bottom: 20px;
+    }
+
+    .contact-section form{
+        margin-left: 10%;
+        text-align: center;
+    }
+
+    .contact-section form input, textarea{
+        margin-left: 0px;
+    }
+
+    .contact-section form .btn{
+        margin-left: 5%;
+    }
+
+}
+
+@media only screen and (max-width:480px){
+    html{
+        font-size: 15px;
+    }
+
+    header{
+        height: 80vh;
+    }
+
+    .heading-main-box{
+        width: 80%;
+        transform: translate(-45%, -50%);
+    }
+
+    .heading-main-text{
+        word-spacing: 3px;
+        font-size: 130%;
+        margin-bottom: 40px;
+    }
+
+    .heading-main-box .btn{
+        display: block;
+        margin-bottom: 20px;
+        margin-left: 20%;
+    }
+
+    .product-box h3 {
+        font-size: 120%;
+    }
+
+    .product-box ul li {
+        margin-left: 20%;
+    }
+
+    .product-box .btn {
+        margin-left: 15%;
+    }
+
+    figure img{
+        width: 70px;
+        height: 70px;
+    }
+
+    figcaption{
+        font-size: 100%;
+    }
+
+    .contact-section{
+        padding-left: 0px;
+        
+    }
+
+    .infor{
+        font-size: 100%;
+    }
+
+    .social-icon{
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+
+    .contact-section form{
+        margin-left: 20%;
+    }
+
+    .contact-section form .btn{
+        width: 70%;
+    }
+
+    .mobile-nav-icon{
+        position: absolute;
+        right: 30px;
+    }
+}

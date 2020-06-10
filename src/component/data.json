@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "title": "Network số một Việt Nam",
+        "content": "When true, the trailing slash on a location’s pathname will be taken into consideration when determining if the location matches the current URL. See the <Route strict> documentation for more information.",
+        "img": "https://img.bcdcnt.net/thumb?src=files/66/3e/6e/663e6eb889c9238f8d823692f066382e.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Tranh phong cảnh quê hương",
+        "content": "Trang chủ / Tranh Phong Cảnh Quê Hương / Tranh phong cảnh quê hương em Đồng quê đẹp Amia TSD 336 Tranh phong cảnh quê hương em Đồng quê đẹp Amia TSD 336. Là mẫu tranh phong cảnh đẹp chủ đề quê hương. Bức tranh mở ra khung cảnh đồng quê xanh mát. Hình ảnh đàn trâu thong dong gặm gỏ bên sông. Bên cạnh là dòng sông quê hương xanh mát.",
+        "img": "https://tranhphongcanhdep.com.vn/wp-content/uploads/2018/09/tranh-phong-canh-que-huong-don-gian-dong-que-dep-Amia-TSD-336-1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Network số một Việt Nam",
+        "content": "When true, the trailing slash on a location’s pathname will be taken into consideration when determining if the location matches the current URL. See the <Route strict> documentation for more information.",
+        "img": "https://img.bcdcnt.net/thumb?src=files/66/3e/6e/663e6eb889c9238f8d823692f066382e.jpg"
+    }
+]
